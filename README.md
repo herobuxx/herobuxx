@@ -17,11 +17,10 @@ I am an Android Development Enthusiast.
 
 You can contact me in many ways. Check my redirect page [here](https://t.me/buxxredirect)
 
-[![Github](https://img.shields.io/github/followers/HeroBuxx?label=Follow&style=social)](https://github.com/HeroBuxx)
 
 
+![HeroBuxx's github stats](https://github-readme-stats.vercel.app/api?username=HeroBuxx&show_icons=true&count_private=true&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroBuxx&hide=html)
-![HeroBuxx's github stats](https://github-readme-stats.vercel.app/api?username=HeroBuxx&show_icons=true&count_private=true&line_height=40)  
-  
- 
+
+[![Github](https://img.shields.io/github/followers/HeroBuxx?label=Follow&style=social)](https://github.com/HeroBuxx)
 <img src="https://komarev.com/ghpvc/?username=herobuxx&style=flat-square" alt="herobuxx" /><br>
