@@ -1,3 +1,22 @@
+# Hello, there!
+
+My name is Alif Fathur, well known as HeroBuxx.  
+I am an Android Development Enthusiast.
+
+**I speak:**
+- Minang(West Sumatran Native Language)
+- Indonesian
+- English.
+
+**I usually mess with:**
+- Java
+- C/C++
+- Python
+- Kotlin
+- HTML
+
+You can contact me in many ways. Check my redirect page [here](https://t.me/buxxredirect)
+
 [![Github](https://img.shields.io/github/followers/HeroBuxx?label=Follow&style=social)](https://github.com/HeroBuxx)
 
 
